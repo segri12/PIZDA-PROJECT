@@ -1,2 +1,2 @@
-# PIZDA
+# Script
  
